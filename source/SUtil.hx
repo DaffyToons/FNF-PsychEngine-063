@@ -4,6 +4,8 @@ package;
 import android.Tools;
 import android.Permissions;
 import android.PermissionsList;
+import android.widget.Toast;
+import android.os.Environment;
 import android.os.Build;
 #end
 import lime.app.Application;
