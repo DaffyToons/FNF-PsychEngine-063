@@ -4,6 +4,7 @@ package;
 import android.Tools;
 import android.Permissions;
 import android.PermissionsList;
+import android.os.Build;
 #end
 import lime.app.Application;
 import openfl.events.UncaughtErrorEvent;
